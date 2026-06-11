@@ -4,7 +4,10 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+%26+Spring+Boot+Expert;Full+Stack+Developer;Microservices+Architect)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&fontSize=0" width="100%"> 
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=3&section=header" width="100%"> -->
 
 </div>
 
